@@ -1,0 +1,13 @@
+P|Jing Zhao|Economy|1A
+P|Henry Barron|First|1D
+P|John Smith|First|1A
+P|Cong He|First|2D
+P|Karri Johnson|Economy|1F
+P|Helen Garrett|First|2A
+P|Jackie Meador|Economy|1E
+G|online|online1,online2,online3|3A,3B,3C|Economy
+G|class|person1,person2,person3,person4,person5,person6,person7|5A,5B,5C,5D,5E,5F,1B|Economy
+G|club|club1,club2,club3,club4|6A,6B,6C,6D|Economy
+G|offline|offline1,offline2,offline3,offline4|2A,2B,2C,2D|Economy
+G|travel|traveller1,traveller2,traveller3,traveller4|4A,4B,4C,4D|Economy
+G|Dance|dancer1,dancer2,dancer3|3D,3E,3F|Economy
